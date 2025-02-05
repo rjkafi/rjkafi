@@ -88,8 +88,10 @@
 <div align="center">
   <h2>📊 My Contributions 📊</h2>
   <br>
-  <iframe src="https://www.gitch.art/api/og/https://github.com/rjkafi?color=2da44e" width="1200" height="180" frameborder="0" scrolling="no"></iframe>
+ <div>
+    <iframe src="https://www.gitch.art/api/og/https://github.com/rjkafi?color=2da44e" width="1200" height="180" frameborder="0" scrolling="no"></iframe>
   <br/><br/><br/>
+ </div>
 </div>
 
 

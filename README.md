@@ -87,8 +87,8 @@
 
 <div align="center">
   <h2>📊 My Contributions 📊</h2>
-  <hr>
   <br>
+    <br>
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -106,7 +106,8 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<hr>
+ <br>
+    <br>
 <div align="center">
     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rjkafi&hide=HTML&langs_count=8&layout=compact&theme=jolly&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img width=390 height=170 src="https://github-readme-stats-salesp07.vercel.app/api?username=rjkafi&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=10" alt="readme stats" />

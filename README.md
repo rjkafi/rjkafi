@@ -88,20 +88,7 @@
 <div align="center">
   <h2>📊 My Contributions 📊</h2>
   <br>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rjkafi/rjkafi/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rjkafi/rjkafi/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/rjkafi/rjkafi/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <iframe src="https://www.gitch.art/api/og/https://github.com/rjkafi?color=2da44e" width="1200" height="180" frameborder="0" scrolling="no"></iframe>
   <br/><br/><br/>
 </div>
 

@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm a passionate and continuously learning web dev
 
 ## 📊 My GitHub Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rjkafi&theme=github-compact&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=@rjkafi&theme=github-compact&hide_border=true)
 
 ---
 

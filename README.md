@@ -90,10 +90,7 @@
 <div align="center">
   <h2>📊 My Contributions 📊</h2>
   <br>
-<picture>
      ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rjkafi&theme=github-compact&hide_border=true)
-  <br/><br/><br/>
-</picture>
 </div>
 
 

@@ -91,7 +91,7 @@
   <h2>📊 My Contributions 📊</h2>
   <br>
 <picture>
-      <iframe src="https://www.gitch.art/api/og/https://github.com/rjkafi?color=2da44e" width="1200" height="180" frameborder="0" scrolling="no"></iframe>
+     ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rjkafi&theme=github-compact&hide_border=true)
   <br/><br/><br/>
 </picture>
 </div>
